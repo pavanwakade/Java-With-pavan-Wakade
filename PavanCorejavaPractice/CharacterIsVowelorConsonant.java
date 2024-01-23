@@ -1,6 +1,7 @@
-package coreJavapractis;
-import java.util.Scanner;
+package practis;
 
+import java.util.Scanner;
+ 
 public class CharacterIsVowelorConsonant {
 
 	public static void main(String[] args) {
